@@ -8,6 +8,9 @@ Código: 202112109
 Correo: n.merchan@uniandes.edu.co
 
 
+Nota: El estudiante 2 (Andrés Felipe Castro Leguizamon – a.castrol@uniandes.edu.co - 201920805) no colaboró en lo absoluto con la realización del presente laboratorio.
+
+
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
 
 Esta organización es una sugerencia que puede ser adaptada a  las necesidades y gustos de cada persona.
